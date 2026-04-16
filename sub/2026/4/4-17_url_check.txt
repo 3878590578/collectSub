@@ -1,0 +1,3 @@
+https://telegram.org/img/t_logo_2x.png
+http://www.w3.org/2000/svg
+https://web.telegram.org
